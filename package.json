@@ -1,5 +1,5 @@
 {
-  "name": "woocommerce-sdk",
+  "name": "@spuentesp/woocommerce-sdk",
   "version": "0.1.0",
   "description": "Complete TypeScript SDK for WooCommerce REST API v3",
   "main": "dist/index.js",

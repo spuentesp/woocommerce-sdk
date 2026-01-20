@@ -1,3 +1,14 @@
+## [0.1.3](https://github.com/spuentesp/woocommerce-sdk/compare/v0.1.2...v0.1.3) (2026-01-20)
+
+
+### Bug Fixes
+
+* debug src existence ([2296bbe](https://github.com/spuentesp/woocommerce-sdk/commit/2296bbe065ed1550f52c49e8838e7e0907eaa704))
+* debug tsc output ([b2e3b00](https://github.com/spuentesp/woocommerce-sdk/commit/b2e3b0077fa614ea52e339e1a88a11a2f3299334))
+* docs and build ([c819680](https://github.com/spuentesp/woocommerce-sdk/commit/c819680826eae406c9b3049b43049af1db1d2ad6))
+* ensure dist inclusion ([bc1aadf](https://github.com/spuentesp/woocommerce-sdk/commit/bc1aadf5cccaec1cde4f9a031854e4cc5e0e2762))
+* explicit debug ([8cee2f0](https://github.com/spuentesp/woocommerce-sdk/commit/8cee2f0df950fdfd1fd3094ea6faa6c30c73b09d))
+
 ## [0.1.2](https://github.com/spuentesp/woocommerce-sdk/compare/v0.1.1...v0.1.2) (2026-01-20)
 
 

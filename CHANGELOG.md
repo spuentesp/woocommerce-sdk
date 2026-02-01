@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/spuentesp/woocommerce-sdk/compare/v0.1.3...v0.1.4) (2026-02-01)
+
+
+### Bug Fixes
+
+* add ESM module type declaration for NodeNext compatibility ([36d5b22](https://github.com/spuentesp/woocommerce-sdk/commit/36d5b225569d64ef046be67e6bbc2b51da85d776))
+
 ## [0.1.3](https://github.com/spuentesp/woocommerce-sdk/compare/v0.1.2...v0.1.3) (2026-01-20)
 
 

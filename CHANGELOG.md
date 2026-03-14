@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/spuentesp/woocommerce-sdk/compare/v0.1.4...v0.2.0) (2026-03-14)
+
+
+### Features
+
+* **copilot:** add repository copilot instructions ([459af98](https://github.com/spuentesp/woocommerce-sdk/commit/459af98b9c063a9950cbdd2788886fd5e83fb938))
+
 ## [0.1.4](https://github.com/spuentesp/woocommerce-sdk/compare/v0.1.3...v0.1.4) (2026-02-01)
 
 

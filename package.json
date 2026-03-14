@@ -1,6 +1,6 @@
 {
   "name": "@spuentesp_pkgs/woocommerce-sdk",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "type": "module",
   "description": "Complete TypeScript SDK for WooCommerce REST API v3",
   "publishConfig": {
